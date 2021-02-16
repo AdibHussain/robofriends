@@ -1,6 +1,5 @@
 {
   "name": "robofriends",
-  "clean": "gh-pages-clean",
   "homepage": "https://AdibHussain.github.io/robofriends",
   "version": "0.1.0",
   "private": true,
